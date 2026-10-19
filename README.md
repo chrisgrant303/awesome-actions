@@ -498,6 +498,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GitHub Action for sending Stack Overflow posts to Slack](https://github.com/logankilpatrick/StackOverflowBot)
 - [Assume AWS role](https://github.com/nordcloud/aws-assume-role/)
 - [Generate Custom Response using JSONbin](https://github.com/fabasoad/jsonbin-action)
+- [CCE GovCon Feeds](https://github.com/chrisgrant303/gh-action-govcon-feeds) - Run CCE Partners Apify Actors (SAM.gov, recompetes, SEC Form D, awards) from a workflow; needs your Apify token (pay-per-event).
 
 ### Frontend Tools
 
